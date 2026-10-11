@@ -96,18 +96,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-| Executive Overview | Behavioral Segmentation |
-| :---: | :---: |
-| *[Screenshot Placeholder]* | *[Screenshot Placeholder]* |
-
-| CLV Intelligence | Credit Scoring & SHAP |
-| :---: | :---: |
-| *[Screenshot Placeholder]* | *[Screenshot Placeholder]* |
-
----
-
 ## 📁 Folder Structure
 
 ```text
