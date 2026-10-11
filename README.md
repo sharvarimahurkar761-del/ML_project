@@ -135,7 +135,7 @@ creditlens_ai/
 
 ## 🤝 Contributors
 
-- **[Your Name]** - *Lead Architect & Developer*
+- **Sharvari Mahurkar** - *Lead Architect & Developer*
 
 Contributions, issues, and feature requests are welcome!
 
